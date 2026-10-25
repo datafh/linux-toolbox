@@ -9265,7 +9265,7 @@ fi
             auto_disk_main
             ;;
         q)
-            echo "再见！服务器推荐：www.95vps.com"
+            echo "再见！推荐博客：https://datafh.cn"
             break
             ;;
         *)
